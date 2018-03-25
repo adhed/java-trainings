@@ -1,4 +1,4 @@
-package FizzBuzz;
+package task7;
 
 public class FizzBuzz {
 	public void printLine(String line) {

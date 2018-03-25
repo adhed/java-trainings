@@ -1,4 +1,4 @@
-package FizzBuzz;
+package task7;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.hamcrest.CoreMatchers.containsString;
